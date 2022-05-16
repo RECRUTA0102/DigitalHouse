@@ -1,4 +1,4 @@
-let numeros = [1, 3, 5, 7, 9, 25, 18, 30, 10]
+let numeros = [1, 3, 5, 7, 9, 25, 18, 30, 10, 20, 22, 23, 24]
 
 
 filtrarIdade = numeros.map(function(idades){
@@ -42,4 +42,4 @@ filtrarIdade = numeros.map(function(idades){
 
 //numeros.forEach(function(buscar, indice){
     //console.log("indice " + indice + " tem o valor " + buscar*5);
-//})
+//})git
